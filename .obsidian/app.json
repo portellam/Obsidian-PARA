@@ -2,5 +2,6 @@
   "uriCallbacks": true,
   "showUnsupportedFiles": true,
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
