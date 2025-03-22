@@ -79,7 +79,7 @@ If using `git`, then change the `remote` to your repository before using the [ob
 
 Open Obsidian and choose “Open folder as vault.”
 
-![Open folder as vault](obsidian-folder-as-vault.png)
+![Open folder as vault](images/obsidian-folder-as-vault.png)
 
 Open this folder.
 
@@ -93,7 +93,7 @@ The `templates/` directory contains templates that can be used to standardize he
 
 To insert a template, create a new file, name it, and press `Ctrl + p`. Then begin typing "templates".
 
-![Insert template command pallet](obsidian-insert-template.png)
+![Insert template command pallet](images/obsidian-insert-template.png)
 
 See the [Templates help](https://help.obsidian.md/Plugins/Templates) for more information.
 
