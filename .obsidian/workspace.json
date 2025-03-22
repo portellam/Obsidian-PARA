@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b3fb45bf91aef0",
+        "id": "45700e5e582a4505",
         "type": "tabs",
         "children": [
           {
-            "id": "62539f51e0672fbe",
+            "id": "a680fd53f34f08c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/resource_template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "resource_template"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/resource_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for resource_template"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/resource_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from resource_template"
             }
           },
           {
@@ -128,6 +134,20 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "f274233fb25aa394",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -145,9 +165,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "62539f51e0672fbe",
-  "lastOpenFiles": []
+  "active": "a680fd53f34f08c9",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "templates/resource_template.md",
+    "asdads.md"
+  ]
 }
