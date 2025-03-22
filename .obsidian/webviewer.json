@@ -1,0 +1,8 @@
+{
+  "openExternalURLs": true,
+  "enableAdblocking": true,
+  "homepage": "https://www.duckduckgo.com",
+  "customSearchEngine": "https://duckduckgo.com/?q=%s",
+  "searchEngine": "duckduckgo",
+  "markdownPath": "98. Websites"
+}

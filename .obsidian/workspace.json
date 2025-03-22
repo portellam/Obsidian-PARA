@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/resource_template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resource_template"
+              "title": "README"
             }
           }
         ]
@@ -169,14 +169,19 @@
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
-      "daily-notes:Open today's daily note": false,
-      "publish:Publish changes...": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a680fd53f34f08c9",
+  "active": "06c8843fa4309f31",
   "lastOpenFiles": [
-    "Untitled.md",
+    "98. Websites",
+    "98. Unique Notes",
+    "99. Note composer",
+    "99. Unique notes",
+    "98. Daily Notes",
+    "03. Resources/websites",
     "templates/resource_template.md",
+    "Untitled.md",
     "asdads.md"
   ]
 }

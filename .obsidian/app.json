@@ -1,5 +1,6 @@
 {
   "uriCallbacks": true,
   "showUnsupportedFiles": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "promptDelete": false
 }
